@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React__GifApp/static/css/main.75968187.chunk.css",
+    "main.js": "/React__GifApp/static/js/main.c748848e.chunk.js",
+    "main.js.map": "/React__GifApp/static/js/main.c748848e.chunk.js.map",
+    "runtime-main.js": "/React__GifApp/static/js/runtime-main.d1a7c461.js",
+    "runtime-main.js.map": "/React__GifApp/static/js/runtime-main.d1a7c461.js.map",
+    "static/js/2.b3637a2c.chunk.js": "/React__GifApp/static/js/2.b3637a2c.chunk.js",
+    "static/js/2.b3637a2c.chunk.js.map": "/React__GifApp/static/js/2.b3637a2c.chunk.js.map",
+    "index.html": "/React__GifApp/index.html",
+    "precache-manifest.a50f08949569d1bdd7543348a0ca20b8.js": "/React__GifApp/precache-manifest.a50f08949569d1bdd7543348a0ca20b8.js",
+    "service-worker.js": "/React__GifApp/service-worker.js",
+    "static/css/main.75968187.chunk.css.map": "/React__GifApp/static/css/main.75968187.chunk.css.map",
+    "static/js/2.b3637a2c.chunk.js.LICENSE.txt": "/React__GifApp/static/js/2.b3637a2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1a7c461.js",
+    "static/js/2.b3637a2c.chunk.js",
+    "static/css/main.75968187.chunk.css",
+    "static/js/main.c748848e.chunk.js"
+  ]
+}
